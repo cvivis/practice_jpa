@@ -11,4 +11,5 @@ public class GetBookRes {
     private Integer bookId;
     private String bookName;
     private String authorName;
+    private String publisherName;
 }
